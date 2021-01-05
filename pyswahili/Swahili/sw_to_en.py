@@ -11,7 +11,7 @@ dictionary = {
         "pia": "elif",  # as long as it makes sense semantical translation does not matter
         "ikiwa": "for",
         "katiya": "range",
-        "imo": "in",
+        "katika": "in",
         "wakati": "while",
         "andika": "print",
         "zaidi": "else",
